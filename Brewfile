@@ -9,3 +9,5 @@ cask "keka"
 cask "logi-options+"
 
 # cask "balenaetcher"
+cask "font-jetbrains-mono-nerd-font"
+cask "1password"
