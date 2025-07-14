@@ -1,0 +1,11 @@
+tap "jandedobbeleer/oh-my-posh"
+brew "gnupg"
+brew "neofetch"
+brew "neovim"
+brew "stow"
+brew "jandedobbeleer/oh-my-posh/oh-my-posh"
+cask "iterm2"
+cask "keka"
+cask "logi-options+"
+
+# cask "balenaetcher"
