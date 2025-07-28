@@ -1,4 +1,7 @@
 **/.DS_Store
 
+# Ignore all files that are device specific
 **/*.local
+
+docker/**
 

@@ -17,6 +17,7 @@ fi
 
 # Global configs
 alias zs="source ~/.zshrc"
+alias dot="cd ~/.dotfiles"
 
 # Local configs
 source $HOME/.zsecret.local
